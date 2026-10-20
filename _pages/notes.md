@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-Notes I write while working through theory-heavy books and papers: derivations in my own words, and interactive visualisations to build intuition.
+Notes from working through theory-heavy books and papers: derivations, worked exercises and interactive visualisations to build intuition. I used AI heavily to help me understand these texts. The derivations and explanations are mostly AI-written, in response to the questions I asked while studying, so they are not in my own words. They record my learning path rather than finished expert exposition, and may contain mistakes.
 
 - **[Information geometry notes](https://msrepo.github.io/information_geometry_notes/)**: chapter-by-chapter study notes on Amari's *Information Geometry and Its Applications*, with derivations, runnable checks and interactive visualisations.
 - **[A First Course in Machine Learning notes](https://msrepo.github.io/first-course-ml/)**: notes, exercise solutions and interactive visualisations (Bayesian inference, Laplace approximation, MCMC, classification) for Rogers and Girolami's textbook, with Python code.
